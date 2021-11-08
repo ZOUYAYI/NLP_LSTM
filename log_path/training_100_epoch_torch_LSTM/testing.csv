@@ -1,0 +1,21 @@
+ select model path , loss , ppl 
+./models/torch_LSTM/LSTMlm_new_model_epoch5.ckpt,5.713472431781245,302.92111703035044
+./models/torch_LSTM/LSTMlm_new_model_epoch10.ckpt,5.725920004003188,306.71531479756356
+./models/torch_LSTM/LSTMlm_new_model_epoch15.ckpt,5.962418771257587,388.54879922784306
+./models/torch_LSTM/LSTMlm_new_model_epoch20.ckpt,6.314858904071882,552.7240679741129
+./models/torch_LSTM/LSTMlm_new_model_epoch25.ckpt,6.71048630920111,820.9697875495837
+./models/torch_LSTM/LSTMlm_new_model_epoch30.ckpt,7.13450413124234,1254.5147598261183
+./models/torch_LSTM/LSTMlm_new_model_epoch35.ckpt,7.57633404638253,1951.4618675978297
+./models/torch_LSTM/LSTMlm_new_model_epoch40.ckpt,8.011896582210765,3016.6329833125087
+./models/torch_LSTM/LSTMlm_new_model_epoch45.ckpt,8.463135195713416,4736.885805521102
+./models/torch_LSTM/LSTMlm_new_model_epoch50.ckpt,8.906587638107,7380.4333701058495
+./models/torch_LSTM/LSTMlm_new_model_epoch55.ckpt,9.341822184768377,11405.171647110627
+./models/torch_LSTM/LSTMlm_new_model_epoch60.ckpt,9.740609169006348,16993.890379585537
+./models/torch_LSTM/LSTMlm_new_model_epoch65.ckpt,10.134324793722115,25193.08405879595
+./models/torch_LSTM/LSTMlm_new_model_epoch70.ckpt,10.495487942415124,36152.01414714834
+./models/torch_LSTM/LSTMlm_new_model_epoch75.ckpt,10.839559293260761,50998.89747118673
+./models/torch_LSTM/LSTMlm_new_model_epoch80.ckpt,11.144675591412712,69194.42615113132
+./models/torch_LSTM/LSTMlm_new_model_epoch85.ckpt,11.452946270213408,94178.41274282144
+./models/torch_LSTM/LSTMlm_new_model_epoch90.ckpt,11.74750778721828,126438.0554801231
+./models/torch_LSTM/LSTMlm_new_model_epoch95.ckpt,11.980744043986002,159650.77364072122
+./models/torch_LSTM/LSTMlm_new_model_epoch100.ckpt,12.161250301435881,191233.46710377955
