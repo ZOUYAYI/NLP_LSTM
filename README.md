@@ -33,7 +33,11 @@ python train.py
 ```
 python print_loss_curves.py
 ```
-*you need to set the log path "SUB_FOLDER_PATH" to your log folder name*
+*you need to set the log path "SUB_FOLDER_PATH" to your log folder name*</br>
  and as for me , I get MyLSTM curves and TorchLSTM curves in validation set and training set , which you can see the results below
- (http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png)
- 
+ <div align=center>
+ <img src="https://github.com/ZOUYAYI/NLP_LSTM/blob/main/Torch_LSTM_training_ppl.png" />
+ <img src="https://github.com/ZOUYAYI/NLP_LSTM/blob/main/MY_LSTM_training_ppl.png" />
+ <img src="https://github.com/ZOUYAYI/NLP_LSTM/blob/main/Torch_LSTM_validation_ppl.png" />
+ <img src="https://github.com/ZOUYAYI/NLP_LSTM/blob/main/MY_LSTM_validation_ppl.png" />
+ </div>
