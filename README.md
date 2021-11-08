@@ -6,6 +6,11 @@ ubuntu 18.04
 cuda V10.0.130
 cudnn v7.4.2.24
 ```
+*get environment file "NLP.tar.gz" by :*
+```
+链接: https://pan.baidu.com/s/19TadulMnSoinYPgmHUuhoQ 提取码: 149g 复制这段内容后打开百度网盘手机App，操作更方便哦
+```
+
 *upload the "NLP.tar.gz" file to your machine and run command below:*
 ```
 mkdir ~/anaconda3/envs/NLP 
